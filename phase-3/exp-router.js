@@ -1,36 +1,3 @@
-
-// 15. Controllers
-
-// const { Router } = require("express");
-
-// Folder
-
-// controllers/
-
-// userController.js
-
-// Move logic from routes.
-
-// 16. MVC Pattern
-
-// Understand
-
-// Routes
-
-// ↓
-
-// Controller
-
-// ↓
-
-// Model
-
-// ↓
-
-// Database
-
-
-
 //SYNTAX
 // const express=require("express");
 // const router=express.Router();
