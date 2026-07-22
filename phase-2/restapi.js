@@ -121,7 +121,7 @@ app.put("/students/:id",(req,res)=>{
             message:"student not found"
         });
     };
-    const {name,age,course}=req.body();
+    const {name,age,course}=req.body;
     students[index]={
         id,
         name,
